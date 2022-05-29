@@ -1,0 +1,17 @@
+;en;pt;es
+AnnouncerListen;"Hey, Listen!";"Hey, Escute!";"Oye, Escucha!"
+AnnouncerPlayerTurn;Show me what you got!;Mostre o que sabes!;Muestra lo que tienes!
+AnnouncerFailedChoice;Not that one!;Não era essa!;Esa no es!
+AnnouncerFailedByRuneChoice;Oh no!!!;Oh não!!!;Oh no!!
+AnnouncerTimeout;Hurry Up!;Mais Rápido!;Apúrate!
+AnnouncerFailedByTimeout;Timeout!;Acabou o Tempo!;Tiempo fuera!
+AnnouncerHighScore;New High Score: {0};Novo Recorde: {0};Nuevo Record: {0}
+AnnouncerBloodSacrifice;You must be desperate!;Sacrifício!;Sacrificio!
+HintName;Hint;Dica;Tip
+HintDescription;Discards some runes that are not the next input of the sequence. Leveling up reduces the cooldown and increases the number of runes discarded.;Descarta algumas runas que não são a próxima entrada da sequência. Subir de nível reduz o tempo de espera e aumenta o número de runas descartadas.;Descarta las runa que no estan en la proxima entrada de la secuencia. Subir de nivel reduce el tiempo de espera e incremental el numero de runas descartadas.
+PurgeName;Purge;Expurgar;Depurar
+PurgeDescription;Deletes a rune from the board and restarts the sequence. Leveling up reduces the cooldown.;Destroy uma runa do tabuleiro e reinicia a sequência. Subir de nível reduz o tempo de espera.;Elimina una runa del tablero y reinicia la secuencia. Subir de nivel reduce el tiempo de espera.
+ReplayName;Replay Sequence;Tocar novamente;Jugar Nuevamente
+ReplayDescription;"Hear the sequence again, and Restart playing it from the beginning. Leveling up reduces the cooldown.";Ouça a sequência novamente e reinicie a reprodução desde o início. Subir de nível reduz o tempo de espera.;"Escuchar la secuencia de nuevo, reiniciar el juego desde el principio. Incrementar de nivel reduce el tiempo de espera."
+BloodSacrificeName;Blood Sacrifice;Sacrifício de Sangue;Sacrificio de Sangre
+BloodSacrificeDescription;Complete the current sequence at the cost of a life! Leveling up reduces the cooldown.;Complete a sequência atual pelo preço de uma vida! Subir de nível reduz o tempo de espera.;Completa la secuencia actual con el costo de una vida! Subir de nivel reduce el tiempo de espera.
